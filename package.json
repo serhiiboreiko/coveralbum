@@ -1,0 +1,25 @@
+{
+  "name": "coveralbum",
+  "version": "1.0.0",
+  "description": "Get cover of the album (iTunes API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "size": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jestersunborn/coveralbum.git"
+  },
+  "author": "Serhiy Boreyko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jestersunborn/coveralbum/issues"
+  },
+  "homepage": "https://github.com/jestersunborn/coveralbum#readme",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
